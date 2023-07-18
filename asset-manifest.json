@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/justinRackusAlgonquin/React_application_repo.git/static/css/main.8a991743.css",
+    "main.js": "/justinRackusAlgonquin/React_application_repo.git/static/js/main.ecc1f0a8.js",
+    "index.html": "/justinRackusAlgonquin/React_application_repo.git/index.html",
+    "main.8a991743.css.map": "/justinRackusAlgonquin/React_application_repo.git/static/css/main.8a991743.css.map",
+    "main.ecc1f0a8.js.map": "/justinRackusAlgonquin/React_application_repo.git/static/js/main.ecc1f0a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a991743.css",
+    "static/js/main.ecc1f0a8.js"
+  ]
+}
